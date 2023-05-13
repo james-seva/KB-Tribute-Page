@@ -1,0 +1,84 @@
+* {
+  text-align: center;
+}
+
+
+h1 {
+  margin: -10px;
+  background-color: #590369;
+  padding: 1rem;
+  color: #ffcc00;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 52px;
+}
+
+body {
+  background-color: #ffcc00;
+}
+
+p {
+  color: #000;
+  font-size: 24px;
+  margin-top: 24px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 52px;
+  width: 500px;
+  border-radius: 10px;
+
+}
+
+#img-caption {
+  font-size: 20px;
+  padding: 1rem;
+}
+
+#career-highlights {
+  font-size: 32px;
+margin: 36px auto;
+  padding-left: 26px;
+}
+
+li {
+list-style: none;
+  font-size: 18px;
+  margin: 10px;
+  margin-bottom: 24px;
+  align-item: center;
+}
+
+#times {
+  font-size: 24px;
+}
+
+.visit-button {
+  display: inline-block;
+  padding: 0.70rem;
+  margin-top: 52px;
+  margin-left: 38px; 
+  width: 20%;
+  font-size: 20px;
+  background-color: #590369;
+  color: #ffcc00;
+ border-radius: 0.25rem;
+  cursor: pointer;
+  
+}
+
+.visit-button:hover {
+  background-color: #000;
+}
+
+/* li::first-letter {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+li::first-line {
+  
+} */
